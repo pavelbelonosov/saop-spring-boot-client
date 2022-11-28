@@ -9,4 +9,4 @@ Spring Boot, Gradle, H2
 
 Сгенерировать объекты из WSDL `./gradlew compileJava`  
 Сборка `./gradlew build`  
-Старт `java -jar build/libs/saop-spring-boot-client-0.0.1.jar`  
+Старт `java -jar build/libs/soap-spring-boot-client-0.0.1.jar`  
